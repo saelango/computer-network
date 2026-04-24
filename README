@@ -1,3 +1,5 @@
 final_skel.py : topology with Hosts 101-104, Hosts 201-204, Trusted Host, Untrusted Host, LLM Server, Floor 1 Switch 1, Floor 2 Switch 1, Floor 1 Switch 2, Floor 2 Switch 2
 
 finalcontroller_skel.py : controller that drops certain packets
+
+project.pdf : This contains screenshots of various tests of the topology and controller. It explains each command and its respective output.
